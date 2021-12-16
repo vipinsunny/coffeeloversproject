@@ -1,0 +1,278 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap'); */
+.container-fluid{
+   background-color:  rgb(141, 110, 47);
+}
+
+.row{
+    color:black; 
+    /* background-color: rgb(218, 203, 183); */
+    width: 1000px;
+    height: 3000px;
+    /* border: 5px solid rgb(78, 44, 16); */
+    position: relative;
+    
+    display: flex; 
+    justify-content: space-around;
+    
+
+   /* background-image: url(./images/coffeeimage2.jpg);  */
+    /* background-size: cover;  */
+    /* background-image: url(./images/coffee\ background.jpg); */
+
+}
+
+/* img{
+    width: 500px;
+    height: 250px;
+} */
+
+
+.col1 p{
+    color: rgb(12, 5, 5);
+    
+    
+    }
+
+h2{
+    color:rgb(8, 8, 8);
+    
+}
+
+.col1 h2{
+    text-align: center;
+}
+.col1{
+     /* border: 5px solid rgb(12, 12, 12); */
+    /* background-color: rgb(212, 171, 110); */
+    
+    position: absolute;
+    width: 300px;
+    height: 280px;
+    left: 300px;
+    top: 250px;
+    padding: 0px;
+}
+
+
+ /* .col {  
+     width: 500px;
+    height: 400px;
+}   
+
+/* .col2 img{
+    width: 300px;
+    height: 250px;
+    position: absolute;
+    left: 50%;
+    top: 5%; */
+    /* border: 5px solid   brown; */
+/* } */
+
+.col2 h2{
+    color: rgb(12, 12, 11);
+}
+
+/* .col2{
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    border: 5px solid rgb(241, 185, 100);
+    top: 1000px;
+    
+    left: 120px;
+    } */
+
+/* .col3 img{
+    width: 300px;
+    height: 250px;
+    position: absolute;
+    left: 10px;
+    top: 5px;
+    
+} */
+
+.col4 img{
+    width: 280px;
+    height: 250px;
+    position: absolute;
+    left: 300px;
+    top: 650px;
+    
+}
+
+.col5 img{
+    width: 280px;
+    height: 250px;
+    position: absolute;
+    left: 650px;
+    top: 650px;
+}
+
+.col6 img{
+    width: 280px;
+    height: 250px;
+    position: absolute;
+    left: 1000px;
+    top: 650px;
+}
+
+
+
+.col4{
+   width: 250px;
+   height: 200px;
+}
+
+.col7{
+    /* background-color: rgb(223, 217, 138); */
+    color: rgb(8, 8, 8);
+    height: 600px;
+    width: 330px;
+    /* border: 5px solid   darkblue; */
+    position: absolute;
+    top: 1000px;   
+    left: 300px;
+    padding: 10px;
+
+}
+
+.col7 h2{
+    color: rgb(12, 12, 11);
+}
+.col8{
+    /* background-color: rgb(223, 217, 138); */
+    color: rgb(10, 10, 10);
+    height: 600px;
+    width: 330px;
+    /* border: 5px solid   darkblue; */
+    position: absolute;
+    top: 1350px;
+    left: 300px;
+    padding: 10px;
+}
+
+.col8 h2{
+    color: rgb(7, 7, 7);
+}
+
+.col11{
+    /* background-color: rgb(223, 217, 138); */
+    color: rgb(7, 7, 7);
+    height: 600px;
+    width: 330px;
+    /* border: 5px solid   darkblue; */
+    position: absolute;
+    top: 1600px;
+    left: 100px;
+    padding: 10px;   
+}
+
+.col11 h2{
+    color: rgb(5, 5, 5);
+}
+.col9 h1{
+    /* border: 5px solid maroon; */
+    background-color: rgb(141, 110, 47);
+    height: 60px;
+    width: 500px;
+    /* position: absolute; */
+    position: absolute;
+    top: 80px;
+    left: 550px;
+    
+    /* padding: 0px; */
+    color: maroon;
+    text-align: center;
+    /* display: flex; */
+    /* justify-content: center; */
+}
+
+.col9 h1{
+    color: rgb(8, 8, 8);
+}
+
+.col9 i{
+    position: absolute;
+    left: 500px;
+    top: 80px;
+    background-color: rgb(141, 110, 47);
+    height: 60px;
+    width: 50px;
+
+}
+.col2 h1{
+    color: rgb(8, 8, 8);
+    text-align:center;
+}
+
+.col2 p{
+    color: rgb(5, 5, 5);
+}
+.col2{
+    width: 300px;
+    height: 100px;
+    position: absolute;
+    left: 70px;
+    top: 320px;
+    /* border: 2px solid blue; */
+
+}
+
+.col10{
+    width: 300px;
+    height: 240px;
+    border: 5px solid rgb(241, 185, 100);
+    top: 500px;
+    position: absolute;
+    left: 100px;
+    
+}
+
+
+.col10 li{
+    color: rgb(10, 10, 10);
+}
+
+.col10 h2{
+    color: rgb(10, 10, 10);
+    text-align: center;
+}
+
+.col10 ol{
+    color: firebrick;
+}
+
+.col12{
+    border: 3px solid black;
+    width: 500px;
+    height: 800px;
+    top: 2100px;
+    position: absolute;
+    padding-right: 200px;
+    left: 300px;
+    /* text-align: center; */
+    
+
+}
+
+.col12 h1{
+    color: black;
+}
+
+.col13{
+    color: rgb(8, 8, 8);
+    height: 600px;
+    width: 330px;
+    /* border: 5px solid   darkblue; */
+    position: absolute;
+    top: 1700px;   
+    left: 300px;
+    padding: 10px;
+}
+    
+    
+
+
+
+
+
